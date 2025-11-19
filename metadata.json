@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Lumina AI Workspace",
+  "description": "A premium, dark-mode AI workspace featuring advanced chat with Gemini 2.5, image generation with Imagen, and real-time usage analytics.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
